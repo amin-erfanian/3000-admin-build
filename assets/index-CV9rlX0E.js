@@ -1,0 +1,1 @@
+import{_ as s,c as a,o,a as c,p as d,b as t}from"./index-PJoyYsIB.js";const _={},r=e=>(d("data-v-29dea884"),e=e(),t(),e),n={class:"dashboard scrollable"},p=r(()=>c("div",{class:"dashboard__view"},null,-1)),i=[p];function l(e,h){return o(),a("div",n,i)}const u=s(_,[["render",l],["__scopeId","data-v-29dea884"]]);export{u as default};
