@@ -1,0 +1,1 @@
+import{G as t}from"./index-F_zCwhBF.js";async function n(){return t.get("/categories/tree")}async function o(e){return t.get(`/categories/${e}`)}async function c(e){return t.post("/admin/categories",e)}async function s(e,a){return t.put(`/admin/categories/${e}`,a)}async function g(e){return t.delete(`/admin/categories/${e}`)}export{o as a,c,g as d,n as g,s as u};
